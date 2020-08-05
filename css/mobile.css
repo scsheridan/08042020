@@ -5,4 +5,11 @@
   nav ul {
     flex-direction: row;
   }
+  header {
+    height: 100vh;
+    font-size: 1.4em;
+  }
+  header h2 {
+    display: block;
+  }
 }
